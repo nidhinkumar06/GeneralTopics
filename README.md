@@ -7,8 +7,8 @@
 | :-------------: | :------------- | :----------: |
 | Day1 | Native Cloud APPS | Done |
 | Day2 | What is communication | Done |
-| Day3 | SSH |  |
-| Day4 | Containers | |
+| Day3 | SSH | Done |
+| Day4 | Telegraf Influx | Done |
 | Day5 | How does Https work | | 
 | Day6 | Edge Computing | |
 | Day7 | What are Microservices | |
